@@ -61,7 +61,7 @@ html, body {
 
 .main-header {
     /* background-color: rgb(0, 0, 0); */
-    background-image: url("Images/bghd.webp");
+    background-image: url("/bghd.webp");
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
