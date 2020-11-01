@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* .carousel-container{
+    margin: auto;
+    width: 60%;
+}
+
+.carousel-slide{
+    display: flex;
+} */
+
+
+.center{
+    background-color: tomato;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
